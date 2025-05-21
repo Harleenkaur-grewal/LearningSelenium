@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11330cfa-aa7a-46e1-b48b-0f9b1387a106" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Selenium02.java" afterDir="false" />
+    <list default="true" id="11330cfa-aa7a-46e1-b48b-0f9b1387a106" name="Changes" comment="Selenium Introduction">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/adblock.crx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/selenium03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/selenium04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/selenium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Harleenkaur-grewal&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Harleenkaur-grewal/LearningSelenium.git&quot;,
+    &quot;accountId&quot;: &quot;1157dee7-bd65-4deb-b440-0914c15ce040&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2xKH64F7o4TtUnKtgQ02CWyjnVA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,11 +54,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.Selenium01.executor": "Run",
     "TestNG.Selenium02.executor": "Run",
+    "TestNG.selenium03.executor": "Run",
+    "TestNG.selenium04.executor": "Run",
+    "TestNG.selenium05.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hkgre/IdeaProjects/LearningSelenium/src/test/java/org/example"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Selenium02">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hkgre\IdeaProjects\LearningSelenium\src\test\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.selenium05">
     <configuration name="Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium" />
       <extension name="coverage">
@@ -84,8 +102,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="selenium03" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.selenium03" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.selenium04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium05" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.selenium05" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.selenium05" />
+        <item itemvalue="TestNG.selenium04" />
+        <item itemvalue="TestNG.selenium03" />
         <item itemvalue="TestNG.Selenium02" />
         <item itemvalue="TestNG.Selenium01" />
       </list>
@@ -100,7 +172,28 @@
       <option name="presentableId" value="Default" />
       <updated>1747679669772</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium Introduction">
+      <option name="closed" value="true" />
+      <created>1747769494214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747769494214</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selenium Introduction">
+      <option name="closed" value="true" />
+      <created>1747769872279</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747769872279</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium Introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium Introduction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -109,6 +202,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/org/example/Selenium02.java</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/selenium04.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
