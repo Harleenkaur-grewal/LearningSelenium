@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11330cfa-aa7a-46e1-b48b-0f9b1387a106" name="Changes" comment="Selenium Introduction">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/adblock.crx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/selenium03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/selenium04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/selenium05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PROJECT_1/Selenium06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PROJECT_2/Selenium07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +52,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.Selenium01.executor": "Run",
     "TestNG.Selenium02.executor": "Run",
+    "TestNG.Selenium06.executor": "Run",
+    "TestNG.Selenium06.testMethod01.executor": "Run",
+    "TestNG.Selenium07.executor": "Run",
     "TestNG.selenium03.executor": "Run",
     "TestNG.selenium04.executor": "Run",
     "TestNG.selenium05.executor": "Run",
@@ -67,17 +68,17 @@
       <recent name="C:\Users\hkgre\IdeaProjects\LearningSelenium\src\test\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.selenium05">
-    <configuration name="Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Selenium07">
+    <configuration name="Selenium06" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.PROJECT_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Selenium01" />
+      <option name="PACKAGE_NAME" value="org.example.PROJECT_1" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PROJECT_1.Selenium06" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -85,33 +86,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium06.testMethod01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.PROJECT_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.Selenium02" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="org.example.PROJECT_1" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PROJECT_1.Selenium06" />
+      <option name="METHOD_NAME" value="testMethod01" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selenium03" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium07" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.PROJECT_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.selenium03" />
+      <option name="PACKAGE_NAME" value="org.example.PROJECT_2" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PROJECT_2.Selenium07" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium07" />
+        <item itemvalue="TestNG.Selenium06" />
+        <item itemvalue="TestNG.Selenium06.testMethod01" />
         <item itemvalue="TestNG.selenium05" />
         <item itemvalue="TestNG.selenium04" />
-        <item itemvalue="TestNG.selenium03" />
-        <item itemvalue="TestNG.Selenium02" />
-        <item itemvalue="TestNG.Selenium01" />
       </list>
     </recent_temporary>
   </component>
