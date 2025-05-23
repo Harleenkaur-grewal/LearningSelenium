@@ -1,11 +1,12 @@
-package org.example;
+package org.example.PRACTICE;
 
+import io.qameta.allure.Description;
 import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class Selenium01 {
     @Test
+    @Description("open the url and verify")
     public void test_Selenium(){
 
         // In Selenium 3

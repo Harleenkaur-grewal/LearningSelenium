@@ -1,11 +1,13 @@
-package org.example;
+package org.example.PRACTICE;
 
+import io.qameta.allure.Description;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.annotations.Test;
 
 public class Selenium02 {
     @Test
+    @Description("open url,add arguments and get title")
     public void testMethod01() {
         // EdgeOptions -> It will help you set the browser
         // options to browsers

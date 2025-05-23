@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11330cfa-aa7a-46e1-b48b-0f9b1387a106" name="Changes" comment="Selenium Introduction">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PROJECT_1/Selenium06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PROJECT_2/Selenium07.java" afterDir="false" />
+    <list default="true" id="11330cfa-aa7a-46e1-b48b-0f9b1387a106" name="Changes" comment="Selenium Projects">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PROJECT_3/Selenium08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PROJECT_4/Selenium09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PRACTICE/Selenium01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Selenium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PRACTICE/Selenium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/adblock.crx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PRACTICE/adblock.crx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/selenium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PRACTICE/selenium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/selenium04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PRACTICE/selenium04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/selenium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/PRACTICE/selenium05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,59 +52,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.Selenium01.executor": "Run",
-    "TestNG.Selenium02.executor": "Run",
-    "TestNG.Selenium06.executor": "Run",
-    "TestNG.Selenium06.testMethod01.executor": "Run",
-    "TestNG.Selenium07.executor": "Run",
-    "TestNG.selenium03.executor": "Run",
-    "TestNG.selenium04.executor": "Run",
-    "TestNG.selenium05.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/hkgre/IdeaProjects/LearningSelenium/src/test/java/org/example"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.Selenium01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium02.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium06.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium06.testMethod01.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium07.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium08.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Selenium08.testMethod01.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.Selenium09.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.selenium03.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.selenium04.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.selenium05.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hkgre/IdeaProjects/LearningSelenium/src/test/java/org/example&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hkgre\IdeaProjects\LearningSelenium\src\test\java\org\example" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hkgre\IdeaProjects\LearningSelenium\src\test\java\org\example\PRACTICE" />
+      <recent name="C:\Users\hkgre\IdeaProjects\LearningSelenium\src\test\java\org\example\Practice" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.Selenium07">
-    <configuration name="Selenium06" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Selenium_Flipkart">
+    <configuration name="Selenium01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.PROJECT_1.*" />
+          <option name="PATTERN" value="org.example.PRACTICE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.PROJECT_1" />
-      <option name="MAIN_CLASS_NAME" value="org.example.PROJECT_1.Selenium06" />
+      <option name="PACKAGE_NAME" value="org.example.PRACTICE" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PRACTICE.Selenium01" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Selenium06.testMethod01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.PROJECT_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.PROJECT_1" />
-      <option name="MAIN_CLASS_NAME" value="org.example.PROJECT_1.Selenium06" />
-      <option name="METHOD_NAME" value="testMethod01" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -121,16 +117,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selenium04" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium08" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.PROJECT_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.selenium04" />
+      <option name="PACKAGE_NAME" value="org.example.PROJECT_3" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PROJECT_3.Selenium08" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -138,16 +134,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selenium05" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium_Flipkart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.PROJECT_Flipkart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.selenium05" />
+      <option name="PACKAGE_NAME" value="org.example.PROJECT_4" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PROJECT_Flipkart.Selenium_Flipkart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selenium03" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.PRACTICE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.PRACTICE" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PRACTICE.selenium03" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -157,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Selenium_Flipkart" />
+        <item itemvalue="TestNG.Selenium08" />
+        <item itemvalue="TestNG.selenium03" />
+        <item itemvalue="TestNG.Selenium01" />
         <item itemvalue="TestNG.Selenium07" />
-        <item itemvalue="TestNG.Selenium06" />
-        <item itemvalue="TestNG.Selenium06.testMethod01" />
-        <item itemvalue="TestNG.selenium05" />
-        <item itemvalue="TestNG.selenium04" />
       </list>
     </recent_temporary>
   </component>
@@ -190,23 +203,32 @@
       <option name="project" value="LOCAL" />
       <updated>1747769872279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Selenium Projects">
+      <option name="closed" value="true" />
+      <created>1747949398696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747949398696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium Introduction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium Introduction" />
+    <MESSAGE value="Selenium Projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium Projects" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/Selenium02.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/PRACTICE/Selenium02.java</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/selenium04.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/PRACTICE/selenium04.java</url>
           <line>5</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
